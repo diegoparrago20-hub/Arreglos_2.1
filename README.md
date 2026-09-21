@@ -36,6 +36,3 @@ La aplicación permite crear y administrar una biblioteca mediante objetos `Libr
 * NetBeans
 * Java Swing
 
-## Integrantes
-
-* Nombre del integrante
