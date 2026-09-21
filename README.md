@@ -1,4 +1,4 @@
-# TestBiblioteca
+# Arreglos
 
 Sistema de gestión de biblioteca desarrollado en Java utilizando NetBeans.
 
